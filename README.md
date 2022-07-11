@@ -1,4 +1,4 @@
-# Player-Song
+# Music Player
 Reprodutor de som desenvolvido ao terminar a vídeo-aula do canal João Tinti, fiz uma adaptação e implentei novas coisinhas 
 😋
 
