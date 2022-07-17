@@ -4,7 +4,7 @@ Reprodutor de som desenvolvido ao terminar a vídeo-aula do canal João Tinti, f
 
 <img src="https://i.ibb.co/12jh0DH/Song.png"></img>
 
-Acesse o site clicando aqui: https://devoliveira61.github.io/PlayerSong/
+Acesse o site clicando aqui: https://devoliveira61.github.io/music-player/
 
 ### O que foi utilizado? 
 Tecnologias  |  ⬇️
